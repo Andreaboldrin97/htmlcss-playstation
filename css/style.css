@@ -108,4 +108,12 @@ header{
 .play_plus .my_btn_sect a{
     color: rgb(51, 93, 245);;
 }
+/* sezione playstation plus*/
 
+.play_now{
+    color: white;
+    background-color: rgb(3, 3, 59);
+}
+.play_now a{
+    color: black;
+}
