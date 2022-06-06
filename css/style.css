@@ -4,6 +4,9 @@ body{
 img{
     width: 100%;
 }
+.bordo{
+    border: 1px solid red;
+}
 /* header */
 
 
@@ -46,11 +49,8 @@ header{
 .ms_banner{
     padding-top: 350px;
 }
-.ms_banner img{
-    max-width: 220px;
-}
+
 .my_btn_sect{
-    background-color: red;
     border-radius: 25px;
     padding: 15px 15px;
 }
@@ -60,15 +60,30 @@ header{
 }
 /* sezione PS5 store */
 
-.ps_5_store{
+.ps5_store{
     padding-top: 65px;
 }
-.ps_5_store img{
+.ps5_store img{
     border-radius: 10px;
 }
-.my_PS5_slogan h4{
+.my_ps5_slogan h4,.my_ps5_info h4{
     color: rgb(110, 109, 109);
 }
 .my_slogan{
     color: rgb(51, 93, 245) ;
 }
+/* sezione PS5 store hover */
+
+.ps5_shop:hover{
+    border-bottom: 1px solid rgb(51, 93, 245);
+}
+/* sezione jumbotron  ps4*/
+
+.jumbo_ps4{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    width: 100%;
+}    
