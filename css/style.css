@@ -87,3 +87,23 @@ header{
     color: white;
     width: 100%;
 }    
+/* sezione nuove uscite*/
+
+.new_release{
+    background-color: rgb(49, 48, 48);
+}
+.new_release img{
+    border-radius: 10px;
+}
+/* sezione playstation plus*/
+
+.play_plus{
+    background-color: rgb(186, 180, 180);
+}
+.play_plus .my_btn_sect{
+    background-color: rgb(236, 233, 233);
+}
+.play_plus .my_btn_sect a{
+    color: rgb(51, 93, 245);;
+}
+
