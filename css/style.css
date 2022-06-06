@@ -117,3 +117,19 @@ header{
 .play_now a{
     color: black;
 }
+/* footer */
+footer{
+    padding-top: 40px;
+    background-color: rgb(9, 40, 153);
+    color: white;
+}
+footer a{
+    color: white;
+}
+footer ul{
+    list-style: none;
+}
+footer li a{
+    text-decoration: none;
+    vertical-align: 20px;
+}
