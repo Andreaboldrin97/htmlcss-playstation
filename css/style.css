@@ -33,6 +33,7 @@ header{
 .ms_dropnav img{
     width: 80px;
 }
+
 /* main */
 
 /* sezione jumbotron  */
@@ -79,6 +80,10 @@ header{
 }
 /* sezione PS5 store hover */
 
+.store_games:hover{
+    position: relative;
+    bottom: 20px;
+ }
 .ps5_shop:hover{
     opacity: 1;
     border-bottom: 1px solid rgb(51, 93, 245);
