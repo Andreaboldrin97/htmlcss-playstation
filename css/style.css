@@ -34,6 +34,14 @@ header{
 .ms_dropnav img{
     width: 80px;
 }
+.my_link{
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
 .border_btn:hover{
     display: inline-block;
     border-radius: 30px;
