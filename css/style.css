@@ -36,7 +36,7 @@ header{
 }
 .border_btn:hover{
     display: inline-block;
-    border-radius: 25px;
+    border-radius: 30px;
     border: 1px solid;
 }
 .my_btn:hover,
@@ -87,6 +87,9 @@ header{
 .ps5_shop{
     opacity: 0.6;
     max-width: 200px;
+}
+.my_ps5_info{
+    padding: 0 20px;
 }
 /* sezione PS5 store hover */
 
