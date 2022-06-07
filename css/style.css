@@ -34,6 +34,15 @@ header{
 .ms_dropnav img{
     width: 80px;
 }
+.border_btn:hover{
+    display: inline-block;
+    border-radius: 25px;
+    border: 1px solid;
+}
+.my_btn:hover,
+.my_btn_sect:hover{
+    margin: 3px;
+}
 /* main */
 
 /* sezione jumbotron  */
@@ -53,6 +62,7 @@ header{
 }
 
 .my_btn_sect{
+    display: inline-block;
     border-radius: 25px;
     padding: 15px 15px;
 }
