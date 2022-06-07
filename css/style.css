@@ -12,7 +12,6 @@ img{
 
 header{
     font-size: 20px;
-    background-color: white;
 }
 .my_sony_nav{
     background-color: black;
@@ -31,7 +30,9 @@ header{
     color: white;
     text-decoration: none;
 }
-
+.ms_dropnav img{
+    width: 80px;
+}
 /* main */
 
 /* sezione jumbotron  */
@@ -72,9 +73,14 @@ header{
 .my_slogan{
     color: rgb(51, 93, 245) ;
 }
+.ps5_shop{
+    opacity: 0.6;
+    max-width: 200px;
+}
 /* sezione PS5 store hover */
 
 .ps5_shop:hover{
+    opacity: 1;
     border-bottom: 1px solid rgb(51, 93, 245);
 }
 /* sezione jumbotron  ps4*/
