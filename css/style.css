@@ -107,7 +107,7 @@ header{
     padding-top: 65px;
 }
 .ps5_store img{
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .my_ps5_slogan h4, .my_ps5_info h4, .explore_ps4 h4, .ps_store h4{
     color: rgb(110, 109, 109);
@@ -124,7 +124,7 @@ header{
 }
 .my_border_shop{
     border: 3px solid;
-    border-radius: 10px;
+    border-radius: 35px;
 }
 /* sezione PS5 store hover */
 
