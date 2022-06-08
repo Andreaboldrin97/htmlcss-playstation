@@ -42,6 +42,28 @@ header{
     text-decoration: none;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
+.my_link_sub li {
+    list-style: disc;
+    color: blue;
+    margin: 15px;
+}
+.my_a_dropdown{
+    display: block;
+    width: 100%;
+    clear: both;
+    font-weight: 400;
+    color: var(--bs-dropdown-link-color);
+    text-align: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+.my_drop_arrow{
+    display: none;
+}
+/* header hover */
+
 .border_btn:hover{
     display: inline-block;
     border-radius: 30px;
@@ -50,6 +72,10 @@ header{
 .my_btn:hover,
 .my_btn_sect:hover{
     margin: 2px;
+}
+.box_ps:hover{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 /* main */
 
