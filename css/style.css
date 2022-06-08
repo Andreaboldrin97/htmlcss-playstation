@@ -157,7 +157,9 @@ header{
 /* sezione esplora ps4*/
 
 /* sezione playstation plus*/
-
+.logo_psplus{
+    width: 335px;
+}
 .play_plus{
     background-color: rgb(186, 180, 180);
 }
