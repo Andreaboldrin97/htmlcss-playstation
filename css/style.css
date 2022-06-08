@@ -62,7 +62,7 @@ header{
 /* header hover */
 
 .border_btn:hover{
-   box-shadow:  inset 1px 1px 10px rgb(255, 234, 234);
+   box-shadow:  inset 1px 1px 10px rgb(255, 255, 255);
 }
 .border_d:hover{
     border: 2px solid black;
