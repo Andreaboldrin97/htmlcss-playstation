@@ -62,13 +62,16 @@ header{
 /* header hover */
 
 .border_btn:hover{
-    display: inline-block;
-    border-radius: 30px;
-    border: 1px solid;
+   box-shadow:  inset 1px 1px 10px rgb(255, 234, 234);
 }
-.my_btn:hover,
-.my_btn_sect:hover{
-    margin: 2px;
+.border_d:hover{
+    border: 2px solid black;
+}
+.border_g:hover{
+    border: 2px solid rgb(164, 155, 155);
+}
+.border_r:hover{
+    border: 2px solid red;
 }
 .box_ps:hover{
     background-color: white;
