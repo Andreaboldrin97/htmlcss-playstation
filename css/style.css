@@ -59,9 +59,6 @@ header{
     background-color: transparent;
     border: 0;
 }
-.my_drop_arrow{
-    display: none;
-}
 /* header hover */
 
 .border_btn:hover{
@@ -124,6 +121,10 @@ header{
 }
 .my_ps5_info{
     padding: 0 20px;
+}
+.my_border_shop{
+    border: 3px solid;
+    border-radius: 10px;
 }
 /* sezione PS5 store hover */
 
